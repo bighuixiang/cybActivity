@@ -4,7 +4,7 @@
   "data": [
     {
       "tid": "1",
-      "title": "哈哈哈？你傻逼吗？",
+      "title": "JavaScript高级程序开发",
       "thumbnail": "adv.jpg",
       "advertiser": "abc1",
       "read_profit": "8",
@@ -14,7 +14,7 @@
     },
     {
       "tid": "2",
-      "title": "看看你到底有多污？",
+      "title": "JavaScript权威指南",
       "thumbnail": "adv.jpg",
       "advertiser": "abc2",
       "status": "0",
